@@ -1,0 +1,22 @@
+
+.box{
+	border:1px white;
+	width:95%;
+	height:100%; 
+}
+.percent{
+
+	position:relative;
+	float:left;
+	padding: 5px 5px;
+}
+
+.desc {
+	border:1px solid #ccc;
+	background-color: white;
+	display: inline-block;
+	margin-right:5px;
+    width:350px;
+    height: 350px;
+    float:left;
+}
